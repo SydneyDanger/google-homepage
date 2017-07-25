@@ -1,0 +1,10 @@
+*{
+  box-sizing: border-box;
+}
+
+#logo{
+  width: 272px;
+  height: 92px;
+  margin: auto;
+  padding: 190px 0px 0px 0px;
+}
